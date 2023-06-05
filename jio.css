@@ -1,0 +1,195 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    
+
+    height: 700px;
+    background: #9045a7f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2.5%;
+}
+
+.box1 {
+    background-image: url(jio\ tablete.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    box-sizing: border-box;
+    position: relative;
+    width: 386px;
+    height: 444px;
+    border: 1px solid rgb(94, 91, 91);
+    border-radius: 20px;
+}
+marquee{
+  
+    width: 380px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: -55px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    background: #becefb;
+    border: none;
+    border-radius: 50px;
+    position: absolute;
+    top: 58px;
+    left: -10px;
+}
+button:hover{
+    background: #9ab4fc;
+}
+span{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+    opacity: 0.6;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+p{
+    color: #fff;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 1px;
+    position: absolute;
+    top: -100px;
+    left: -59px;
+    width: 380px;
+    height: 100px;
+   
+    
+}
+.arch1 {
+    width: 390px;
+    height: 390px;
+    background: #1249ed00;
+}
+
+.arch1:before {
+    position: absolute;
+    content: "";
+    background: hsl(234, 90%, 58%) ;
+    height: 55%;
+    top: 200px;
+    width: 58.4vh;
+
+    left: -2px;
+    border-radius: 75px 75px 20px 20px;
+}
+
+.t1 {
+    position: absolute;
+    width: 234px;
+    height: 61px;
+    left: 60px;
+    top: 330px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 28px;
+
+    color: #000000;
+}
+
+.box2 {
+    background-image: url(chair\ jio.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    box-sizing: border-box;
+    position: relative;
+    width: 386px;
+    height: 444px;
+    border: 1px solid rgb(85, 84, 84);
+    border-radius: 20px;
+}
+
+.arch2 {
+    width: 390px;
+    height: 390px;
+    background: #1249ed00;
+}
+
+.arch2:before {
+    position: absolute;
+    content: "";
+    background: hsl(234, 90%, 58%) ;
+    height: 55%;
+    top: 200px;
+    width: 58.4vh;
+
+    left: -2px;
+    border-radius: 75px 75px 20px 20px;
+}
+
+.t2 {
+    position: absolute;
+    width: 234px;
+    height: 61px;
+    left: 60px;
+    top: 330px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 28px;
+
+    color: #000000;
+}
+
+.box3 {
+    background-image: url(ad\ jio\ girl.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    box-sizing: border-box;
+    position: relative;
+    width: 386px;
+    height: 444px;
+    border: 1px solid rgb(92, 92, 92);
+    border-radius: 20px;
+}
+
+.arch3 {
+    width: 390px;
+    height: 390px;
+    background: #1249ed00;
+}
+
+.arch3:before {
+    position: absolute;
+    content: "";
+    background: hsl(234, 90%, 58%) ;
+    height: 55%;
+    top: 200px;
+    width: 58.4vh;
+    left: -2px;
+    border-radius: 75px 75px 20px 20px;
+}
+
+.t3 {
+    position: absolute;
+    width: 234px;
+    height: 61px;
+    left: 60px;
+    top: 330px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 28px;
+
+    color: #000000;
+}
